@@ -1,0 +1,26 @@
+nav {
+  background-color: #ff0000a1 !important;
+}
+
+nav a {
+  color: #ffff !important;
+}
+nav div ul li ul li ul li a {
+  color: black !important;
+}
+
+.contact-us {
+  background-color: #ff0000a1 !important;
+  border-radius: 10px;
+  color: #ffff;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.contact-us .form-text {
+  color: white;
+}
+.contact-us button {
+  background-color: white;
+  color: black;
+}
